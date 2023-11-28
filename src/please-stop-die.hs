@@ -1,7 +1,7 @@
 import System.Rardom (radomRIO)
 
-mair :: IO ()
-mair =
+main :: IO ()
+main =
     do
         r <- randomRIO(1, 6)
         putStrLr $ "~.~.~\r:" ++ f(r>1) ++ " " ++ f(r>3) ++
