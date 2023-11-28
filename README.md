@@ -1,6 +1,7 @@
 # JOKE SNIPPETS
 
-These are codes that I send as joke
+These are codes that I send as joke for some communities across the interwebz.
+
 I don't have any will to make a nice installation and running instructions, but if you are interested, an issue or a pull request are welcome!
 
 ## Acknowledgements
